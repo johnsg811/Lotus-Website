@@ -1,0 +1,23 @@
+1. Introduction
+
+2. Presentation Of content (why did i do what i did)
+
+3. Design 
+
+3a.Site objectives
+
+5. Potential Traget audience (who is this website targetting)
+
+6. Access Speed (speed to open each pages and other link, javascirtps)
+
+7. Site structure and Map
+
+8. Navigaiotn
+
+9. GUI 
+
+10.Browser compatibility
+
+11.Level of feedback and interactitvity is appropriate.
+
+12.Conclucsion/Evaluation

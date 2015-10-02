@@ -1,0 +1,55 @@
+@charset "utf-8";
+body {
+	background-image: url(../images/Lotus_BG.jpg);
+	background-color: #000;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: contain ;
+}
+
+#parentDiv{
+	text-align: center;
+}
+
+#logo {
+	position: absolute;
+	animation-delay:1s;
+	left: 386px;
+	top: 50px;
+	width: 518px;
+	height: 44px;
+	z-index: 2;
+	color: #D6D6D6;
+}
+#nav {
+	position: absolute;
+	left: 385px;
+	top: 158px;
+	width: 775px;
+	height: 39px;
+	z-index: 2;
+	color: #D6D6D6;
+}
+body,td,th {
+	color: #FFFFFF;
+	font-size: 19px;
+}
+
+#section {
+	position: absolute;
+	left: 242px;
+	top: 316px;
+	width: 900px;
+	z-index: 2;
+	color: #FFFFFF;
+	background-color: rgba(0,0,0,0.7);
+	font-size: 21px;
+	border-radius: 20px;
+	height: px;
+}
+#section p {
+	font-size: 20px;
+	text-align: left;
+	color: #FFFFFF;
+}
